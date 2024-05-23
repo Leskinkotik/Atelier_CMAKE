@@ -88,5 +88,4 @@ jobs:
           cd build
           cmake ..
           make
-          ./src/calculator car 5
-          
+          ./src/calculator car
